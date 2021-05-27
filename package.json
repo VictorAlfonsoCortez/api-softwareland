@@ -1,0 +1,22 @@
+{
+  "name": "api-softwareland",
+  "version": "1.0.0",
+  "description": "RESTful API-SOFTWARELAND",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorAlfonsoCortez/api-softwareland.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "VICTOR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorAlfonsoCortez/api-softwareland/issues"
+  },
+  "homepage": "https://github.com/VictorAlfonsoCortez/api-softwareland#readme"
+}
